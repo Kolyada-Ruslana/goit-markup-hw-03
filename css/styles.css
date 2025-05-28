@@ -310,7 +310,6 @@ a {
     letter-spacing: 0.02em;
     color: #2e2f42;
     margin-bottom: 8px;
-    text-align: center;
 }
 
 .portfolio-item-description {
@@ -319,7 +318,6 @@ a {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
-    text-align: center;
 }
 
 .page-footer {
@@ -341,6 +339,7 @@ footer .footer-paragraph {
     letter-spacing: 0.02em;
     color: #2e2f42;
     padding: 24px 0;
+    display: block;
 }
 
 
